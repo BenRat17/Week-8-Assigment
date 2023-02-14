@@ -1,0 +1,169 @@
+body{
+    background-color:papayawhip;
+    text-align: center;
+/* Page 1 Styling */
+}
+.indexStyle h1{
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-style: double;
+    border-color: green;
+    border-radius: 2rem;
+    border-width: 1pc;
+    padding: .5rem;
+    margin: 0 auto 1rem;
+    font-size: xx-large;
+    font-weight: 900;
+    background-color:rgb(16, 159, 215);
+    }
+    
+
+.indexStyle h2{
+    border-color: green;
+    border-radius: 2rem;
+    border-width: 1pc;
+    padding: .5rem;
+    margin-top: 0 auto 1rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+    font-style:oblique;
+    font-size: larger;
+}
+.indexStyle nav{
+border: 2px solid #333;
+border-radius: 2rem;
+margin: 1rem auto 1rem;
+max-width: 500px;
+line-height: 3rem;
+
+}
+.indexStyle h3{
+    padding:1rem;
+    background: coral;
+    border-radius: 2rem 2rem 0 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0 auto auto;
+}
+
+.indexStyle ul{
+    list-style-type:none;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0rem;
+    margin: 1rem 0 0;
+}
+
+.indexStyle li{
+border-top: 1px solid #333;
+margin: -1rem auto 0;
+}
+
+.indexStyle li a{
+    display: block;
+}
+
+.indexStyle li a,li a:visited {
+    text-decoration:none;
+}
+.indexStyle li a:hover,li a:focus{
+    background-color: #333;
+    color: whitesmoke;
+    cursor: crosshair;
+}
+
+.indexStyle li:last-child a{
+border-radius: 0 0 2rem 2rem;
+    }
+/* Page 2 Styling */
+.indexStyle2 h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-style: double;
+    border-color: green;
+    border-radius: 2rem;
+    border-width: 1pc;
+    padding: .5rem;
+    margin: 0 auto 1rem;
+    font-size: xx-large;
+    font-weight: 900;
+    background-color:rgb(16, 159, 215);
+}
+.indexStyle2 h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-bottom: 2px solid black;
+    border-radius: 1rem;
+}
+.indexStyle2 ul{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    list-style-type:none;
+    padding: .5rem; 
+    font-weight:bold;
+
+}
+.indexStyle2 li{
+    border: 1px solid black;
+    border-radius: 1rem;
+    background: coral;
+}
+.indexStyle2 ul img{
+    padding: 1rem;
+    height: 7rem;
+} 
+.indexStyle2 p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    border-bottom: 2px solid black;
+    border-radius: 1rem;
+    font-size: larger;
+}
+.indexStyle2 table th{
+border: solid black;
+padding: 1rem;
+font: larger bold;
+font-weight: 400;
+background-color: coral;
+}
+.indexStyle2 table{
+    border: solid black;
+    width: 100%;
+    background-color: aliceblue;
+}
+.indexStyle2 table td{
+    border-right: solid black;
+   
+}
+.indexStyle2 table td img{
+    width: max-content;
+}
+.indexStyle2  a{
+    font-size: larger;
+    border: solid black 2px;
+    background-color: gray;
+    color: white;
+}
+.indexStyle2 a:hover{
+color: orange
+}
+/* End of Styling for Page 2*/
+
+.indexStyle3 h1{
+    border: 2px solid black;
+    background-color: coral;
+    padding: 1rem;
+
+}
+.indexStyle3  a{
+    font-size: larger;
+    border: solid black 2px;
+    background-color: gray;
+    color: white;
+    padding: .5rem;
+
+}
+.indexStyle3 h2{
+    border: 2px solid black;
+    background-color: gray;
+}
+.indexStyle3 form{
+    font-size: larger;
+    padding: 1rem;
+}
